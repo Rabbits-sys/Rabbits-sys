@@ -1,5 +1,3 @@
-###  👋
-
 <h1><img src="imgs/meow_party.gif" width="50"/> Hi there is Rabbits-sys</h1>
 
 ## About ::
