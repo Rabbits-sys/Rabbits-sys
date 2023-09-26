@@ -31,7 +31,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rabbits-sys/Rabbits-sys?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Rabbits-sys/Nonlinear-Optimization"><b>Rabbits-sys</b></a></td>
+      <td><a href="https://github.com/Rabbits-sys/Nonlinear-Optimization"><b>Nonlinear-Optimization</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Rabbits-sys/Nonlinear-Optimization?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Rabbits-sys/Nonlinear-Optimization?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Rabbits-sys/Nonlinear-Optimization?style=flat-square&labelColor=343b41"/></td>
