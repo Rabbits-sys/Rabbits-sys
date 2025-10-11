@@ -49,11 +49,11 @@
   </a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Rabbits-sys">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Rabbits-sys&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabbits-sys&layout=donut&langs_count=4&theme=radical" />
+<a href="https://github.com/Rabbits-sys">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabbits-sys&layout=donut&theme=radical" />
 </a>
 
 ##  Let's connect ::
