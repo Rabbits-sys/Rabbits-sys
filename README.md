@@ -53,8 +53,9 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rabbits-sys&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabbits-sys&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabbits-sys&layout=donut" />
 </a>
+
 ##  Let's connect ::
 
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Rabbits-sys) [![Gmail Badge](https://img.shields.io/badge/-yorkjing@126.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yorkjing@126.com)](mailto:yorkjing@126.com)
