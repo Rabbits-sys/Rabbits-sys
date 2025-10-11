@@ -43,7 +43,7 @@
 
 
 ## Languages and Tools ::
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,py,pytorch,qt,js,ts,css,electron,nodejs,wordpress" />
   </a>
