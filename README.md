@@ -50,6 +50,7 @@
 </p>
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Rabbits-sys&theme=radical)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbits-sys&layout=compact&theme=radical)]()
 
 ##  Let's connect ::
 
