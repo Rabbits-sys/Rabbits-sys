@@ -60,3 +60,4 @@
 
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Rabbits-sys) [![Gmail Badge](https://img.shields.io/badge/-yorkjing@126.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yorkjing@126.com)](mailto:yorkjing@126.com)
 
+![Moe Counter](https://count.getloli.com/@:Rabbit-sys？theme=rule34)
